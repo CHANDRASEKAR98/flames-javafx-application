@@ -1,0 +1,14 @@
+.myDialog {
+	-fx-background-color: pink;
+}
+.myDialog:header *.header-panel{
+    -fx-background-color: purple;
+}
+.myDialog:header *.header-panel *.label{
+    -fx-font-size: 18px;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
+.myDialog > *.label.content{
+    -fx-font-weight: bold;
+}
