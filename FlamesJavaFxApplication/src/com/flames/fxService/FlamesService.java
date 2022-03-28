@@ -81,7 +81,7 @@ public class FlamesService {
 			commonValidation.saveConfirmationDialog(name2.getText() + CommonMessage.RESULT_MARRIAGE);
 			break;
 		case 'e':
-			resultInfo.setText(name2 + CommonMessage.RESULT_ENEMY);
+			resultInfo.setText(name2.getText() + CommonMessage.RESULT_ENEMY);
 			commonValidation.saveConfirmationDialog(name2.getText() + CommonMessage.RESULT_ENEMY);
 			break;
 		case 's':
