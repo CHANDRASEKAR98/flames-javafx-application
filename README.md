@@ -1,19 +1,27 @@
 # Flames JavaFx Application
 A JavaFx application to predict the relationship between the two people. This game is just for fun and not to hurt anyone literally.
 
-## Pre Requisites
-1. JavaFx Framework Library
-2. JDK 8
-3. Java IDE (Ex: Eclipse, VsCode)
-4. Gluon Scene Builder
+## Prerequisite
+- JavaFx Framework Library
+- JDK 8
+- Java IDE (Ex: Eclipse, VsCode)
+- Gluon Scene Builder
 
 ## Roadmap
 
-- Creating an User Interfaced (UI) for the Flames Application
+- JDK, JavaFx Framework library installation
+
+- Creating an User Interfaced (UI) using Gluon Scene Builder
 
 - Integrating a Java source code with UI.
 
 - Development & Bug fixes
+
+## Demo
+
+The Project demo is shown below.
+
+![Flames_JavaFx_Application](https://github.com/CHANDRASEKAR98/flames-javafx-application/blob/main/images/Flames_JavaFx_App.JPG)
 
 ## Installation
 
